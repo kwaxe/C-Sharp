@@ -1,0 +1,101 @@
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\bin\Release\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\bin\Release\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\bin\Release\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\bin\Release\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\bin\Release\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\priconfig.xml.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\layout.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\resources.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\pri.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\obj\Release\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 15th March 2013 - Copy\bin\Release\Assets\MurachLogo.png
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Release\Assets\MurachLogo.png
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Release\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Release\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Release\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Release\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Release\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\priconfig.xml.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\layout.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\resources.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\pri.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Release\ProjectArchitectures.txt
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\FinancialCalculations.exe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\FinancialCalculations.pdb
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\resources.pri
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\AppxManifest.xml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\FinancialCalculations.build.appxrecipe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\App.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\App.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\Common\StandardStyles.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\DepreciationPage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\DepreciationPage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\FutureValuePage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\FutureValuePage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\MenuPage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\MenuPage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\XamlTypeInfo.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\App.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\Common\StandardStyles.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\DepreciationPage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\FutureValuePage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\MenuPage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\FinancialCalculations.exe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\FinancialCalculations.pdb
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\priconfig.xml.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\layout.resfiles.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\resources.resfiles.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\pri.resfiles.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\priconfig.xml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\layout.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\resources.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\pri.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\LanguageQualifiers.txt
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\obj\Release\ProjectArchitectures.txt

@@ -1,0 +1,429 @@
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\bin\Debug\resources.pri
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\bin\Debug\AppxManifest.xml
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\App.g.i.cs
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\App.g.cs
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\MainPage.g.i.cs
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\MainPage.g.cs
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\App.xaml
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\MainPage.xaml
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\priconfig.xml
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\layout.resfiles
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\resources.resfiles
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\pri.resfiles
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\AppData\Local\Temporary Projects\FinancialCalculations\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\MainPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\MainPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\MainPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\FinancialCalculations\FinancialCalculations\obj\Debug\ProjectArchitectures.txt
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\bin\Debug\FinancialCalculations.exe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\bin\Debug\FinancialCalculations.pdb
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\bin\Debug\resources.pri
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\bin\Debug\AppxManifest.xml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\App.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\App.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\DepreciationPage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\FutureValuePage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\MainPage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\MainPage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\App.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\Common\StandardStyles.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\DepreciationPage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\FutureValuePage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\MainPage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\FinancialCalculations.exe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\FinancialCalculations.pdb
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\priconfig.xml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\layout.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\resources.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\pri.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\LanguageQualifiers.txt
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_2\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_2\FinancialCalculations_2\obj\Debug\MenuPage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\FinancialCalculations.exe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\FinancialCalculations.pdb
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\resources.pri
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\AppxManifest.xml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\App.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\App.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\DepreciationPage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FutureValuePage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\MenuPage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\MenuPage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\App.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\Common\StandardStyles.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\DepreciationPage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FutureValuePage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\MenuPage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FinancialCalculations.exe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FinancialCalculations.pdb
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\priconfig.xml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\layout.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\resources.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\pri.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\LanguageQualifiers.txt
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\ProjectArchitectures.txt
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\priconfig.xml.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\layout.resfiles.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\resources.resfiles.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_4\FinancialCalculations_3\FinancialCalculations_2\obj\Debug\pri.resfiles.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\bin\Debug\FinancialCalculations.exe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\bin\Debug\FinancialCalculations.pdb
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\bin\Debug\resources.pri
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\bin\Debug\AppxManifest.xml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\App.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\App.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\DepreciationPage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\FutureValuePage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\MenuPage.g.i.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\MenuPage.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\App.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\Common\StandardStyles.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\DepreciationPage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\FutureValuePage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\MenuPage.xaml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\FinancialCalculations.exe
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\FinancialCalculations.pdb
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\priconfig.xml.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\layout.resfiles.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\resources.resfiles.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\pri.resfiles.intermediate
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\priconfig.xml
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\layout.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\resources.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\pri.resfiles
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\LanguageQualifiers.txt
+C:\Users\anne\Documents\C# 2012\FinancialCalculations_5\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(AB)\FinancialCalculations_5\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_5(GDM)\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations_Final\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\FinancialCalculations 5thMarch2013\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 7th March 2013\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 14th March 2013\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\Assets\MurachLogo.png
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\resources.pri
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\AppxManifest.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\FinancialCalculations.build.appxrecipe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\App.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\App.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\DepreciationPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\DepreciationPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\FutureValuePage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\FutureValuePage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\MenuPage.g.i.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\MenuPage.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\App.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\DepreciationPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\FutureValuePage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\MenuPage.xaml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\FinancialCalculations.exe
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\FinancialCalculations.pdb
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\priconfig.xml
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\layout.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\resources.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\pri.resfiles
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\obj\Debug\ProjectArchitectures.txt

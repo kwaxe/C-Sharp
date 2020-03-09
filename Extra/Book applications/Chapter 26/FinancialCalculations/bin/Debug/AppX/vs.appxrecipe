@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>Q6600</Machine>
+    <WindowsUser>Ged</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>38BEE0B271C24D5C355F18260FE8825522CBD8C6E439686B41DA81534BB8F439</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8a5269a8-3e33-49ff-a00f-7756cbffd2b2_1.0.0.1_neutral__5v7s2jcnjg0xe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8a5269a8-3e33-49ff-a00f-7756cbffd2b2_5v7s2jcnjg0xe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8a5269a8-3e33-49ff-a00f-7756cbffd2b2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ged</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-23T09:28:23.548</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\FinancialCalculations.exe">
+      <PackagePath>FinancialCalculations.exe</PackagePath>
+      <Modified>2013-03-23T09:28:23.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\FinancialCalculations.pdb">
+      <PackagePath>FinancialCalculations.pdb</PackagePath>
+      <Modified>2013-03-23T09:28:23.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Assets\DollarSmallLogo.png">
+      <PackagePath>Assets\DollarSmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-15T11:06:21.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Assets\DollarSplashScreen.png">
+      <PackagePath>Assets\DollarSplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-21T09:28:47.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Assets\DollarStoreLogo.png">
+      <PackagePath>Assets\DollarStoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-15T11:11:53.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2013-02-21T09:28:47.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Assets\Murach Logo Red White.png">
+      <PackagePath>Assets\Murach Logo Red White.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-13T14:12:06.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Assets\MurachLogo.png">
+      <PackagePath>Assets\MurachLogo.png</PackagePath>
+      <Modified>2013-02-21T09:28:47.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2013-02-21T09:28:47.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2013-02-21T09:28:47.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2013-02-21T09:28:47.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-02-21T09:28:48.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-21T09:28:46.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-02-24T10:56:36.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\DepreciationPage.xaml">
+      <PackagePath>DepreciationPage.xaml</PackagePath>
+      <Modified>2013-03-15T10:16:45.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\FutureValuePage.xaml">
+      <PackagePath>FutureValuePage.xaml</PackagePath>
+      <Modified>2013-03-23T09:25:26.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\MenuPage.xaml">
+      <PackagePath>MenuPage.xaml</PackagePath>
+      <Modified>2013-03-14T09:27:25.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ged\Documents\Visual Studio 2012\Projects\Murach Projects\Financial Calculations 23 Mar 13\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-23T09:28:23.410</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

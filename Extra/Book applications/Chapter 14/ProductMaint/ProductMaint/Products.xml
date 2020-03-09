@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+    <Product>
+        <Type>Book</Type>
+        <Code>JAVP</Code>
+        <Description>Murach's Java Programming</Description>
+        <Price>52.50</Price>
+        <Author>Joel Murach</Author>
+    </Product>
+    <Product>
+        <Type>Software</Type>
+        <Code>NPTK</Code>
+        <Description>.NET Programmer's Toolkit</Description>
+        <Price>179.99</Price>
+        <Version>4.5</Version>
+    </Product>
+    <Product>
+        <Type>Software</Type>
+        <Code>NVLD</Code>
+        <Description>.NET Validation Library</Description>
+        <Price>79.50</Price>
+        <Version>1.5</Version>
+    </Product>
+    <Product>
+        <Type>Book</Type>
+        <Code>VB12</Code>
+        <Description>Murach's VB 2012</Description>
+        <Price>54.50</Price>
+        <Author>Anne Boehm</Author>
+    </Product>
+</Products>

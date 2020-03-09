@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANNE-WINDOWS8</Machine>
+    <WindowsUser>anne</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>11511B4BB7B601E17ABD0BA139BD37A4E3C8D4D85809E64B59D09F016CA5A39A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8a5269a8-3e33-49ff-a00f-7756cbffd2b2_1.0.0.1_neutral__5v7s2jcnjg0xe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8a5269a8-3e33-49ff-a00f-7756cbffd2b2_5v7s2jcnjg0xe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8a5269a8-3e33-49ff-a00f-7756cbffd2b2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ged</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-05T21:15:50.345</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\FinancialCalculations.exe">
+      <PackagePath>FinancialCalculations.exe</PackagePath>
+      <Modified>2013-04-05T21:17:55.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\FinancialCalculations.pdb">
+      <PackagePath>FinancialCalculations.pdb</PackagePath>
+      <Modified>2013-04-05T21:17:55.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\DollarSplashScreen.png">
+      <PackagePath>Assets\DollarSplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-21T16:28:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-21T16:28:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\MurachLogo.png">
+      <PackagePath>Assets\MurachLogo.png</PackagePath>
+      <Modified>2013-03-27T21:35:17.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-21T16:28:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-21T16:28:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-02-21T16:28:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-21T16:28:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-02-24T17:56:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\DepreciationPage.xaml">
+      <PackagePath>DepreciationPage.xaml</PackagePath>
+      <Modified>2013-03-27T21:34:36.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\FutureValuePage.xaml">
+      <PackagePath>FutureValuePage.xaml</PackagePath>
+      <Modified>2013-04-05T21:17:54.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\MenuPage.xaml">
+      <PackagePath>MenuPage.xaml</PackagePath>
+      <Modified>2013-03-27T21:28:32.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-27T21:35:22.194</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANNE-WINDOWS8</Machine>
+    <WindowsUser>anne</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\FinancialCalculations.exe">
+      <PackagePath>FinancialCalculations.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\FinancialCalculations.pdb">
+      <PackagePath>FinancialCalculations.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\DollarSplashScreen.png">
+      <PackagePath>Assets\DollarSplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\MurachLogo.png">
+      <PackagePath>Assets\MurachLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\DepreciationPage.xaml">
+      <PackagePath>DepreciationPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\FutureValuePage.xaml">
+      <PackagePath>FutureValuePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\MenuPage.xaml">
+      <PackagePath>MenuPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anne\Documents\C# 2012\FinancialCalculations_Final\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
